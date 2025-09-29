@@ -5,7 +5,7 @@ const EXAM_DETAILS = [
   { stream:'Engineering', name:'JEE Main', colleges:['NITs', 'IIITs', 'GFTIs'], link:'https://jeemain.nta.ac.in/', window:'Jan / Apr (typical)' },
   { stream:'Engineering', name:'JEE Advanced', colleges:['IITs (Mumbai, Delhi, Madras, Kanpur...)'], link:'https://jeeadv.ac.in/', window:'May / Jun (typical)' },
   { stream:'Engineering', name:'BITSAT', colleges:['BITS Pilani/Goa/Hyderabad'], link:'https://www.bitsadmission.com/', window:'May / Jun (typical)' },
-  { stream:'Engineering', name:'VITEE', colleges:['VIT (Vellore/Chennai/Amaravati/Bhopal)'], link:'https://viteee.vit.ac.in/', window:'Apr (typical)' },
+  { stream:'Engineering', name:'VITEEE', colleges:['VIT (Vellore/Chennai/Amaravati/Bhopal)'], link:'https://viteee.vit.ac.in/', window:'Apr (typical)' },
 
   { stream:'Science', name:'CUET (UG)', colleges:['Central Universities (B.Sc., etc.)'], link:'https://cuet.samarth.ac.in/', window:'May / Jun (typical)' },
   { stream:'Science', name:'NEET (UG)', colleges:['AIIMS', 'JIPMER', 'Govt/Private Medical Colleges'], link:'https://neet.nta.nic.in/', window:'May / Jun (typical)' },
